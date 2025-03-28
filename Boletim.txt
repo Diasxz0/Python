@@ -1,0 +1,4 @@
+leo, a sua nota na hist foi 8
+leo, a sua nota na  mat foi 5
+ carla, a sua nota na hist foi 10
+ carla, a sua nota na  mat foi 8
